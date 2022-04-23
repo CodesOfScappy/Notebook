@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661837779658",
+    "project_id": "scappy-7cf01",
+    "storage_bucket": "scappy-7cf01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661837779658:android:98dedab2d4e9b40c581a33",
+        "android_client_info": {
+          "package_name": "com.example.scappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661837779658-sk13jj83ipcb4c4vev0hn882562o9hd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaaAo_hfA7YL5qmrta_Wn2K8oxSpHH3Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661837779658-sk13jj83ipcb4c4vev0hn882562o9hd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
